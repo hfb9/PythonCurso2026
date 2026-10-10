@@ -1,0 +1,112 @@
+[
+  [
+    "Klaukol 25kg",
+    "Adhesivos",
+    "20000"
+  ],
+  [
+    "Klaukol 10kg",
+    "Adhesivos",
+    "12000"
+  ],
+  [
+    "Klaukol 5kg",
+    "Adhesivos",
+    "8050"
+  ],
+  [
+    "Yeso 10kg",
+    "Materiales",
+    "6550"
+  ],
+  [
+    "Yeso 5kg",
+    "Materiales",
+    "4000"
+  ],
+  [
+    "Pastina Klaukol 10kg",
+    "Adhesivos",
+    "14000"
+  ],
+  [
+    "Pastina Klaukol 5kg",
+    "Adhesivos",
+    "10000"
+  ],
+  [
+    "Fastix sellador silicona, tubo 500gr",
+    "Adhesivos",
+    "12000"
+  ],
+  [
+    "Fastix silicona acetica 200gr",
+    "Adhesivos",
+    "7500"
+  ],
+  [
+    "Remachadora pop",
+    "Herramientas",
+    "18000"
+  ],
+  [
+    "Mecha 2.5mm",
+    "Herramientas",
+    "2500"
+  ],
+  [
+    "Mecha 4mm",
+    "Herramientas",
+    "3000"
+  ],
+  [
+    "Pincel 8cm",
+    "Herramientas",
+    "4000"
+  ],
+  [
+    "Pincel 12cm",
+    "Herramientas",
+    "5200"
+  ],
+  [
+    "Cepillo alambre rotativo chico",
+    "Herramientas",
+    "3300"
+  ],
+  [
+    "Cepillo alambre rotativo grande",
+    "Herramientas",
+    "4500"
+  ],
+  [
+    "Cepillo alambre chico pack x 3",
+    "Herramientas",
+    "3700"
+  ],
+  [
+    "Cepillo alambre curvado grande",
+    "Herramientas",
+    "4500"
+  ],
+  [
+    "3m",
+    "3m cinta",
+    "12"
+  ],
+  [
+    "Aa",
+    "O",
+    "2"
+  ],
+  [
+    "Yeso  10kg",
+    "A",
+    "23"
+  ],
+  [
+    "Yeso",
+    "332",
+    "23"
+  ]
+]
